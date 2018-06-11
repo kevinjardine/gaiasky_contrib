@@ -27,7 +27,7 @@ speed is the current speed of the camera in parsecs per frame
 
 the height, yaw and pitch fields can have the value '-' in which case the script will use the previous or default values
 
-the default yaw and pitch values are 0 and 0 - the camera orientation is pointing straight down towards the galactic plane with the galatcic centre to the right.
+the default yaw and pitch values are 0 and 0 - the camera orientation is pointing straight down towards the galactic plane with the galactic centre to the right.
 
 Example:
 
