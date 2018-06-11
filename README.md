@@ -23,7 +23,7 @@ yaw is the left/right camera angle
 
 pitch is the up/down camera angle
 
-speed is the current speed of the camera in parsecs per frame
+speed is the current speed of the camera movement in parsecs per frame
 
 the height, yaw and pitch fields can have the value '-' in which case the script will use the previous or default values
 
