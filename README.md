@@ -1,4 +1,4 @@
-This script is run inside Gaia Sky and accepts a list of bar-separated control points and uses cubic spline interpolation to generate a sommoth Gaia Sky camera path between them.
+This script is run inside Gaia Sky and accepts a list of bar-separated control points and uses cubic spline interpolation to generate a smooth Gaia Sky camera path between them.
 
 The format for each control point is:
 
