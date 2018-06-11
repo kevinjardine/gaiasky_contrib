@@ -44,3 +44,5 @@ p|5937951995124879232|336.766173949|-1.652332380|1087|a|800|-|-|3
 p|4066022591147527552|6.008906894|-1.204998593|1177|a|800|-|-|3
 p|4146599166888812032|16.942776136|0.842243970|1887|a|800|-|-|3
 
+You will need to edit the script before running it to point to your control point input file and camera path output file.
+
